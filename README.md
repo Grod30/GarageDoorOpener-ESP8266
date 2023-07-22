@@ -10,7 +10,7 @@ This project was made for a real use at home using a ESP8266 and Firebase Realti
 
 # Hardware
 - NodeMCU v2 ESP8266   
-- Relay board SRD-05VDC-SL-C (Not the JQC-3FF-S-Z because this one does not work with the NodeMCU voltage gave me a headache to troubleshoot)
+- Relay board SRD-05VDC-SL-C (Not the JQC-3FF-S-Z because this one does not work with the NodeMCU voltage)
 - ***Optional* Protoboard (can be wired directly too)
 - Dupont wires
 
